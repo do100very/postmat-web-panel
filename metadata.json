@@ -1,0 +1,7 @@
+{
+  "name": "Postomat Admin Pro",
+  "description": "Enterprise-grade parcel locker network management system with real-time monitoring, telemetry tracking, and AI-powered incident analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
